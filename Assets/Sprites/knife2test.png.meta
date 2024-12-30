@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: abc6a22bdc143414e873d0a4371290b0
+guid: a4f73de788723c043afcd957981df4df
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4004680693641771595
-    second: ic_knife_0
+      213: -1653084279681242830
+    second: knife2test_0
   - first:
-      213: 5810189145030828214
-    second: ic_knife_1
+      213: 5803166435157452634
+    second: knife2test_1
   - first:
-      213: -6289106513531281735
-    second: ic_knife_2
+      213: -6176791596795362360
+    second: knife2test_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -132,7 +132,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ic_knife_0
+      name: knife2test_0
       rect:
         serializedVersion: 2
         x: 0
@@ -147,14 +147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b50e9870248c68c0800000000000000
-      internalID: -4004680693641771595
+      spriteID: 23921d52b901f09e0800000000000000
+      internalID: -1653084279681242830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ic_knife_1
+      name: knife2test_1
       rect:
         serializedVersion: 2
         x: 7
@@ -169,14 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b0a4636e30f1a050800000000000000
-      internalID: 5810189145030828214
+      spriteID: a57a704502df88050800000000000000
+      internalID: 5803166435157452634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ic_knife_2
+      name: knife2test_2
       rect:
         serializedVersion: 2
         x: 13
@@ -191,8 +191,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9be5f5272fa98b8a0800000000000000
-      internalID: -6289106513531281735
+      spriteID: 8c3056dc4c0a74aa0800000000000000
+      internalID: -6176791596795362360
       vertices: []
       indices: 
       edges: []
@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      knife2test_0: -1653084279681242830
+      knife2test_1: 5803166435157452634
+      knife2test_2: -6176791596795362360
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
